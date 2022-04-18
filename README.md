@@ -46,6 +46,9 @@ Create two summary statistics DataFrames:
      DataFrame.
      2. For Table 2, use the `agg` method to produce the same summary statistics table utilizing a single line of code.
 
+![image](https://user-images.githubusercontent.com/99145651/163820266-4d2f9467-aba5-413a-a204-515794611b61.png)
+![image](https://user-images.githubusercontent.com/99145651/163819916-999864f7-5643-40d7-ba06-ea6c6a4d8045.png)
+
 ## Bar Charts,Pie Charts Creation
 
      1. Generate two identical bar plots showing the total number of timepoints for all mice tested with each drug regimen. 
@@ -91,10 +94,14 @@ Create two summary statistics DataFrames:
       the Capomulin treatment. 
       2. Plot the linear regression model on top of the previous scatter plot.
 
-
-![image](https://user-images.githubusercontent.com/99145651/163816948-02167df8-2149-4824-9f6c-06215350e848.png)
+### Summary
+During the 45 days of analysis, the intense focus on tumor development and treatment was observed. A intentional focus on Capomulin, which was used more frequently
+than other treatments.
+There was slightly more male subjects receiving treatments than females. Capomulin and Ramicane drugs were most successful drug regimens.
 
 ![image](https://user-images.githubusercontent.com/99145651/163817687-b0cb309c-0c37-4941-ba6d-e0e4a83a8b3f.png)
+![image](https://user-images.githubusercontent.com/99145651/163820002-7266d224-c06a-4ada-aa66-7ea8c2b0b71a.png)
+
 
 
 
